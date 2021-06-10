@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "_id": "0001",
+      "id": "0001",
+      "sku": "A0001",
+      "name": "Bánh mì gà",
+      "imageSrc": "https://picsum.photos/300"
+    },
+    {
+      "_id": "0002",
+      "id": "0002",
+      "sku": "A0002",
+      "name": "Bánh mì bò",
+      "imageSrc": "https://picsum.photos/300"
+    },
+    {
+      "_id": "0003",
+      "id": "0003",
+      "sku": "A0003",
+      "name": "Bánh mì trứng",
+      "imageSrc": "https://picsum.photos/300"
+    },
+    {
+      "_id": "0004",
+      "id": "0004",
+      "sku": "A0004",
+      "name": "Trà sữa",
+      "imageSrc": "https://picsum.photos/300"
+    },
+    {
+      "_id": "0005",
+      "id": "0005",
+      "sku": "A0005",
+      "name": "Trà đào",
+      "imageSrc": "https://picsum.photos/300"
+    },
+    {
+      "_id": "0006",
+      "id": "0006",
+      "sku": "A0006",
+      "name": "Nước cam",
+      "imageSrc": "https://picsum.photos/300"
+    }
+  ]
+}
