@@ -4,43 +4,43 @@
       "_id": "0001",
       "id": "0001",
       "sku": "A0001",
-      "name": "Bánh mì gà",
-      "imageSrc": "https://picsum.photos/300"
+      "name": "Đèn pin mini siêu sáng",
+      "imgUrl": "https://salt.tikicdn.com/cache/w200/ts/product/cb/12/d5/af8325d164146466046581d008b7b781.jpg",
+      "sold": 100,
+      "price": 86000,
+      "discount": {
+        "value": 50,
+        "unit": "%"
+      },
+      "star": 4
     },
     {
       "_id": "0002",
       "id": "0002",
       "sku": "A0002",
-      "name": "Bánh mì bò",
-      "imageSrc": "https://picsum.photos/300"
+      "name": "Súp lơ xanh",
+      "imgUrl": "https://salt.tikicdn.com/cache/200x200/ts/product/72/73/df/32874df2e97e42dc30d219150601262e.png",
+      "sold": 120,
+      "price": 53000,
+      "discount": {
+        "value": 26,
+        "unit": "%"
+      },
+      "star": 5
     },
     {
       "_id": "0003",
       "id": "0003",
       "sku": "A0003",
-      "name": "Bánh mì trứng",
-      "imageSrc": "https://picsum.photos/300"
-    },
-    {
-      "_id": "0004",
-      "id": "0004",
-      "sku": "A0004",
-      "name": "Trà sữa",
-      "imageSrc": "https://picsum.photos/300"
-    },
-    {
-      "_id": "0005",
-      "id": "0005",
-      "sku": "A0005",
-      "name": "Trà đào",
-      "imageSrc": "https://picsum.photos/300"
-    },
-    {
-      "_id": "0006",
-      "id": "0006",
-      "sku": "A0006",
-      "name": "Nước cam",
-      "imageSrc": "https://picsum.photos/300"
+      "name": "Xiaomi Miband 6 quốc tế",
+      "imgUrl": "https://salt.tikicdn.com/cache/200x200/ts/product/8d/ae/26/e221b7c4e41f99182eb47761124ec6f3.jpg",
+      "sold": 200,
+      "price": 1090000,
+      "discount": {
+        "value": 16,
+        "unit": "%"
+      },
+      "star": 4
     }
   ]
 }
